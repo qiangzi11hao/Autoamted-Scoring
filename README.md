@@ -7,4 +7,5 @@ DL_navie 小组
 https://github.com/DDigimon/TCAMP-WEEK2
 
 # 最终成绩
+侥幸第一
 ![image text](https://github.com/qiangzi11hao/Autoamted-Scoring/blob/master/pictures/907427927.jpg)
